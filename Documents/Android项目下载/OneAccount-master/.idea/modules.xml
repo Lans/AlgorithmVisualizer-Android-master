@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneAccount-master.iml" filepath="$PROJECT_DIR$/OneAccount-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/account/account.iml" filepath="$PROJECT_DIR$/account/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baichuan/baichuan.iml" filepath="$PROJECT_DIR$/baichuan/baichuan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bottom-navigation-bar/bottom-navigation-bar.iml" filepath="$PROJECT_DIR$/bottom-navigation-bar/bottom-navigation-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/calendarLibrary/calendarLibrary.iml" filepath="$PROJECT_DIR$/library/calendarLibrary/calendarLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/http/http.iml" filepath="$PROJECT_DIR$/library/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwtest/hwtest.iml" filepath="$PROJECT_DIR$/hwtest/hwtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/leafchart/leafchart.iml" filepath="$PROJECT_DIR$/library/leafchart/leafchart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryHttp/libraryHttp.iml" filepath="$PROJECT_DIR$/libraryHttp/libraryHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/library/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" filepath="$PROJECT_DIR$/library/xrecyclerview/xrecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/zoomlibrary/zoomlibrary.iml" filepath="$PROJECT_DIR$/library/zoomlibrary/zoomlibrary.iml" />
+    </modules>
+  </component>
+</project>
